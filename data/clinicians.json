@@ -1,0 +1,14 @@
+[
+  {
+    "id": "D1",
+    "name": "William Muriuki",
+    "phone_number": "0722111222",
+    "specialty": "Cardiology"
+  },
+  {
+    "id": "D2",
+    "name": "Brian Otieno",
+    "phone_number": "0723456789",
+    "specialty": "General Practice"
+  }
+]
