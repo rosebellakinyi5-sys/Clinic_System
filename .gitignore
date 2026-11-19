@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.bad
+clinic_log.txt
+test_data/
