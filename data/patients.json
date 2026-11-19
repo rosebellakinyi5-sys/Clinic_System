@@ -1,0 +1,20 @@
+[
+  {
+    "id": "P1",
+    "name": "Abigael Wambui",
+    "phone_number": "0734298022",
+    "date_of_birth": "2000-09-03"
+  },
+  {
+    "id": "P2",
+    "name": "Peter Mugo",
+    "phone_number": "0733930299",
+    "date_of_birth": "2004-03-10"
+  },
+  {
+    "id": "P3",
+    "name": "Amina Wanjiru",
+    "phone_number": "0712345678",
+    "date_of_birth": "1999-07-21"
+  }
+]

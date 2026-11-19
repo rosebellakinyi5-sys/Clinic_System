@@ -1,0 +1,38 @@
+[
+  {
+    "id": "A1",
+    "patient_id": "P1",
+    "clinician_id": "D1",
+    "date": "2026-11-23",
+    "time": "09:00",
+    "purpose": "Heart checkup",
+    "status": "Completed"
+  },
+  {
+    "id": "A2",
+    "patient_id": "P2",
+    "clinician_id": "D2",
+    "date": "2026-11-23",
+    "time": "09:30",
+    "purpose": "Flu symptoms",
+    "status": "Scheduled"
+  },
+  {
+    "id": "A3",
+    "patient_id": "P3",
+    "clinician_id": "D1",
+    "date": "2026-11-24",
+    "time": "10:00",
+    "purpose": "Follow-up",
+    "status": "Scheduled"
+  },
+  {
+    "id": "A4",
+    "patient_id": "P2",
+    "clinician_id": "D1",
+    "date": "2026-11-24",
+    "time": "11:00",
+    "purpose": "Blood pressure review",
+    "status": "Cancelled"
+  }
+]
